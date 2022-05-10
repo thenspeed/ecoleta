@@ -1,2 +1,2 @@
 # ecoleta
- Projeto NLW 
+ Projeto de um site de reciclagem
